@@ -397,7 +397,7 @@
   height: 600px;
 }
 
-  @media screen and (max-width: 480px) {
+  @media screen and (max-width: 425px) {
     .main_content h1 {
       font-size: 1.75rem;
       margin-top: 2rem;
