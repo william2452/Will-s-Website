@@ -312,7 +312,7 @@
 
 
 /* Mobile Response */
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 768px) {
   .main_container {
     display: grid;
     grid-template-columns: auto;
