@@ -184,7 +184,7 @@
   }
 
   #mobile-menu.is-active .bar:nth-child(2) {
-    opacity: 0;
+    transform: rotate(135deg)
   }
 
   #mobile-menu.is-active .bar:nth-child(1) {
